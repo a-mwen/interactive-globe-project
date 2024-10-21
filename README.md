@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ 
 Interactive 3D Globe 🌍
 
 A WebGL-based interactive globe built with Three.js, visualizing various global data points in real-time.
