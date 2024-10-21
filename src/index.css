@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Comfortaa', sans-serif;
+  background-color: #0d130e;
+  color: white;
+}
+
+h1, p {
+  color: white;
+}
+
+meshBasicMaterial {
+  transition: color 0.3s ease;
+}
