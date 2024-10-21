@@ -73,6 +73,9 @@ Live Demo
 Check out the live version of the project here: Live Demo
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 Contributing
+
 Feel free to contribute to this project by opening issues or submitting pull requests. Contributions, issues, and feature requests are welcome!
